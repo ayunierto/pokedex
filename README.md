@@ -1,5 +1,9 @@
 # PokedexApi
 
+## Config environments
+
+1. Reaname file `.env.template` to `.env` and complete the environments
+
 ## Project setup
 
 ```bash
@@ -13,7 +17,7 @@ npm i -g @nestjs/cli
 docker-compose up -d
 
 # execute seed
-localhost:3000/api/v2/seed/
+http://localhost:3000/api/v2/seed/
 ```
 
 ## Compile and run the project
