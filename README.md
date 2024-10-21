@@ -11,6 +11,9 @@ npm i -g @nestjs/cli
 
 # run database
 docker-compose up -d
+
+# execute seed
+localhost:3000/api/v2/seed/
 ```
 
 ## Compile and run the project
